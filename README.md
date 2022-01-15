@@ -14,6 +14,11 @@ If you find this interesting, please consult these links:
 - https://johnaustin.io/articles/2019/fix-your-unity-timestep#margin=
 - https://youtu.be/qtV8JEIq0Ng
 
+Please Note:
+- I'm using Unity version 2021.2.3f1;
+- The controller is using the new input system;
+- Both character and camera are implemented in Update();
+
 
 <a name="changelog"></a>
 ## 2. Changelog

@@ -39,5 +39,7 @@ Changelog Legend :
 >- Gravity;
 >- Jumping;
 >- Camera control.
-
+>
+>Please Note that both character movement and camera control have been implemented in Update(). Keeping that in mind, the stuttering/jitter is still present, although it is inconsistent.
+>
 <br/><br/>

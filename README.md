@@ -48,3 +48,12 @@ Changelog Legend :
 >Please Note that both character movement and camera control have been implemented in Update(). Keeping that in mind, the stuttering/jitter is still present, although it is inconsistent.
 >
 <br/><br/>
+
+>## 0.0.2
+>01/15/2022 • 3:35PM GMT+1
+> <span style="color:green">**Green**</span>
+>
+>Moved the camera rotation and movement to LateUpdate() as of a suggestion. 
+>However the stutter still persists.
+>
+<br/><br/>

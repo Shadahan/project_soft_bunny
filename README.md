@@ -1,6 +1,6 @@
 
 # project_soft_bunny
-An attempt at creating a smooth and jitter free First Person Camera.
+An attempt at creating a smooth and jitter free First Person Controller.
 ## Contents
 
 1. [ Description ](#description)

@@ -30,7 +30,7 @@ public class InputManager : MonoBehaviour
         movement.ReceiveInput(horizontalInput);
         mouseLook.ReceiveInput(mouseInput);
     }
-
+    
     private void OnEnable() {
         controls.Enable();
     }

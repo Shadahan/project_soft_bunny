@@ -12,7 +12,7 @@ public class MouseLook : MonoBehaviour
     [SerializeField] float xClamp = 85f;
     float xRotation = 0f;
 
-    private void Update() {
+    private void LateUpdate() {
         transform.Rotate(Vector3.up, mouseX);
 
         xRotation -= mouseY;
